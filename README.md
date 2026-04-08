@@ -39,13 +39,17 @@ OPENROUTER_API_KEY=votre_clé_api_openrouter
 streamlit run app.py
 ```
 
-## Technologies utilisées
+## Tutoriel pour Débutants
 
-- **LangChain** : Framework pour les LLMs
-- **LangGraph** : Orchestration d'agents
-- **Streamlit** : Interface utilisateur
-- **OpenRouter** : Accès aux modèles Gemini
-- **PIL** : Traitement d'images
+📚 **[TUTORIEL_DEBUTANT.md](TUTORIEL_DEBUTANT.md)** - Guide ultra-détaillé pour créer cette application depuis zéro, même si vous n'avez jamais codé !
+
+Ce tutoriel explique :
+- Installation de Python et des outils
+- Concepts de base de la programmation
+- Création de chaque fichier pas à pas
+- Compréhension de l'architecture IA
+- Dépannage et débogage
+- Publication sur GitHub
 
 ## Structure du projet
 

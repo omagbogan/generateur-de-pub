@@ -19,8 +19,8 @@ Application de génération d'affiches publicitaires utilisant LangChain et Lang
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/votre-username/ad-generator-app.git
-cd ad-generator-app
+git clone https://github.com/omagbogan/generateur-de-pub.git
+cd generateur-de-pub
 ```
 
 2. Installer les dépendances :
